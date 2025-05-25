@@ -6,7 +6,7 @@ Meu Nome é Gustavo Melo, sou um desenvolvedor front-end apaixonado por jogos (j
 
 - :couple: Sou casado.
 - :pray: Sou Adventista do Sétimo Dia
-- :cat: Tenho 2 gatos.
+- :cat: Tenho 4 gatos.
 - :guitar: Toco violão e contra-baixo (menos do que eu gostaria).
 
 # Tecnologias :wrench:
